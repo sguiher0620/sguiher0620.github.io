@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset="utf-8">
+	<title>Sherry Guiher</title>
+		<!--link to main stylesheet-->
+	<link rel = "stylesheet" href = "css/main.css">
+	</head>
+	
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="#">Home</a></li>
+	        	<li><a href="#">About</a></li>
+        		<li><a href="#">CV</a></li>
+        		<li><a href="#">Blog</a></li>
+    		</ul>
+		</nav>
+		<div id = "wrapper">
+    		
+        		<h1>Hi there, My name is Sherry!</h1>
+				<p>More details to come! <a href="#">Read more about my life...</a></p>
+    		
+		
+		<footer>
+    		<ul>
+        		<li><a href="mailto:sguiher0620@starkstate.net">email</a></li>
+        		<li><a href="https://github.com/sguiher0620">github.com/sguiher0620</a></li>
+			</ul>
+		</footer>
+		</div>
+	</body>
+</html>
